@@ -1,6 +1,6 @@
 # Hi there, I'm Hudson Bradley 👋
 <p align="center">
-  <img src=/rtlogo.mp4 width="400">
+  <img src=https://github.com/Megastrik3/Megastrik3/raw/main/rtlogo.gif width="400">
 </p>
 
 I'm a college student and developer passionate about **changing the world with AI and Machine Learning.** I thrive on building cutting-edge solutions, from computer vision systems for safety to immersive Mixed Reality experiences. I'm actively seeking opportunities to apply my skills and contribute to impactful projects.
